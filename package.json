@@ -1,0 +1,15 @@
+{
+	"name": "Templates plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Mohit Singh",
+	"repository": "https://github.com/singhmohit14072002/monokle-template-plugin.git",
+	"monoklePlugin": {
+		"id": "com.github.kunal-kushwaha.plugin.templates",
+		"helpUrl": "https://github.com/singhmohit14072002/monokle-template-plugin.git",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
+}
